@@ -1,0 +1,9 @@
+#social_login {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  margin-top: -30px;
+}
+#social_login img {
+  cursor: pointer;
+}
